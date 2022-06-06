@@ -1,0 +1,25 @@
+{
+  "name": "eboekhouden",
+  "version": "0.0.1",
+  "description": "eBoekhouden Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vultwo/eBoekhouden-Node.git"
+  },
+  "keywords": [
+    "eboekhouden"
+  ],
+  "author": "Nino Kroesen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vultwo/eBoekhouden-Node/issues"
+  },
+  "homepage": "https://github.com/Vultwo/eBoekhouden-Node#readme",
+  "dependencies": {
+    "strong-soap": "^3.4.0"
+  }
+}
